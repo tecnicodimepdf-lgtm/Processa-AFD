@@ -1,0 +1,6 @@
+{
+  "name": "Splitter de Ponto - SRE & Flat Files",
+  "description": "Processador de arquivos de layout fixo para relógios de ponto biométricos. Divida blocos de forma segura (Cabeçalhos Tipo 1 até Rodapés Tipo 9) com preservação absoluta de layout e quebras de linha original. Inclui gerador de script Python para automação local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
